@@ -15,3 +15,4 @@ allprojects {
 	         implementation 'com.github.samyak2403:AndroidLibrary:1.0'
 	}
 	```
+[![](https://jitpack.io/v/samyak2403/AndroidLibrary.svg)](https://jitpack.io/#samyak2403/AndroidLibrary)
